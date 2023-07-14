@@ -11,10 +11,15 @@ We also dig into the world of digital marketing and branding, crafting strategie
 - I aim to achieve a deep understanding of digital marketing and branding strategies.
 - Beyond the world of code, I enjoy playing chess.
 
+### Stats:
+> I am new on Github and only recently started using this profile
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itschmidty)](https://git.io/streak-stats)
+
 Want to chat, collaborate, or geek out about web development? Maybe even discuss digital marketing and branding? Shoot me a message! Let's kick back, have some fun, and make awesome things happen together!
 <div id="badges">
   <a href="https://www.linkedin.com/in/itschmidty/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedInBadge"/>
   </a>
   <a href="https://www.youtube.com/@itschmidty">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Bade"/>
