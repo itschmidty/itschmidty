@@ -14,7 +14,7 @@ We also dig into the world of digital marketing and branding, crafting strategie
 ### Stats:
 > I am new on Github and only recently started using this profile
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itschmidty)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itschmidty&theme=soft-green)](https://git.io/streak-stats)
 
 Want to chat, collaborate, or geek out about web development? Maybe even discuss digital marketing and branding? Shoot me a message! Let's kick back, have some fun, and make awesome things happen together!
 <div id="badges">
